@@ -1,0 +1,19 @@
+const num1_soma = 10, num2_soma = 5;
+const soma = num1_soma + num2_soma;
+console.log(`Resultado da soma entre ${num1_soma} e ${num2_soma} é ${soma}`);
+
+const num1_subtracao = 20, num2_subtracao = 8;
+const subtracao = num1_subtracao - num2_subtracao;
+console.log(`Resultado da subtração entre ${num1_subtracao} e ${num2_subtracao} é ${subtracao}`);
+
+const num1_multiplicacao = 4, num2_multiplicacao = 7;
+const multiplicacao = num1_multiplicacao * num2_multiplicacao;
+console.log(`Resultado da multiplicação entre ${num1_multiplicacao} e ${num2_multiplicacao} é ${multiplicacao}`);
+
+const num1_divisao = 50, num2_divisao = 10;
+const divisao = num1_divisao / num2_divisao;
+console.log(`Resultado da divisão entre ${num1_divisao} e ${num2_divisao} é ${divisao}`);
+
+const num1_modulo = 15, num2_modulo = 4;
+const modulo = num1_modulo % num2_modulo;
+console.log(`Resultado do módulo entre ${num1_modulo} e ${num2_modulo} é ${modulo}`);
